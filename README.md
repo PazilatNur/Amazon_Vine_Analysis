@@ -17,6 +17,8 @@ The purpose of this analysis is to determind if there is a bias in paid review c
 
 - Percentage of non-vine 5 star reviews: 58%
 
+## Summary:
+
 Purely based on the above number, we can drow the conclusion that Vine-reviews are not basis. 
 
 However, the total number of vine reviews are far less than total number of  non-wine reviews. In order to be more precise, we need to collect more vine-reviews data and to do the same analysis again. 
